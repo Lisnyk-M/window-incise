@@ -1,4 +1,4 @@
-# task_3d
+# Зріз вікна
 
 Зріз вікна Демонстрація:
 [Демонстрація] https://lisnyk-m.github.io/window-incise/
